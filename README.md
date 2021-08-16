@@ -58,14 +58,6 @@
 
 
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-`enraiha0307`, `BackgroundChange-OnScroll`, `@AkankshaGahalot`, `akankshagahlot0307@gmail.com`
-
-
 ### Built With
 
 * [Python]
