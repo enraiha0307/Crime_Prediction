@@ -106,7 +106,19 @@ Similarly for Decision tree the parameter used was class weight and whose value 
 ## Results
 As seen from figures, SVC is taking huge amount of time in training than other models so it is not a good model. Similarly for Artificial Neural network its accuracy is least, so it is not a good option for classification. Now we are left with KNN, decision trees and Extra tree classifier.Here we can see from table that Decision tree and Extra tree classifier are working best with optimal training and good accuracy. Moreover the testing accuracy of ANN, SVM, KNN, Decision tree and Extra tree classifier are 12%, 67%, 73%, 74% and 74% percent respectively. From here also it is evident that Decision tree and Extra tree classifier are performing better than other.
 
+ <div class="images">
+<img src="./images for crime prediction report/chart.png" alt="Fig 1.6"> 
+  <br/>
+<figcaption> Figure 1.6</figcaption>
+  <br/>
+<img src="./images for crime prediction report/chart(1).png" alt="Fig 1.7">
+  <br/>
+<figcaption> Figure 1.7</figcaption>
+</div>
 
+## Conclusion
+Here we can see that for this data set Decision tree and Extra tree classifier are working best with optimal training and good accuracy. 
+However which model will work best is totally dependant on the dataset that is being used.
 ### Built With
 
 * Python
